@@ -6,5 +6,6 @@
 3 encapsulation
 4 abstraction
 5 inhetance
+6 polymorphysm
 
 ## I hope you will enjoy!!!!!!!!
